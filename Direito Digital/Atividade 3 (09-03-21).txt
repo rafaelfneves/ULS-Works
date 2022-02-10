@@ -1,0 +1,33 @@
+1. Diferencie: DOLO x CULPA;
+
+R: Doloso corresponde a intenção consciente do agente, que pode ter desejado o
+resultado atingido com sua conduta criminosa ou simplesmente ter assumido os riscos
+produzidos a partir dela. o Culposo é quando o agente deu causa ao resultado por
+imprudência, negligência ou imperícia.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2. Dê um Exemplo "DIFERENTES, por aluno" de DOLO dentro da TI;
+
+R: Um ex-funcionario de uma empresa em que estagiei, roubou informações dela no seu HD externo, a fim de
+prejudica-la. Foi demitido logo em seguida e por sorte não foi levado a justiça.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+3. Dê um exemplo "DIFERENTES, por aluno" de CULPA dentro da TI, enfocando os 3(Três)
+aspectos;
+
+O Funcionário esquecer de utilizar VPN ou outras medidas se segurança e acabar sendo invadido por
+hackers e ter os dados da empresa roubados.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+4. O que Diferencia uma Sociedade LTDA de uma Sociedade Anônima?
+
+Capital Social
+• LTDA.: É dividido através de quotas definidas em contrato social e distribuídas entre os sócios, podendo ser iguais ou desiguais. Quotas e suas transferências são registradas no Contrato Social e tem um valor nominal. Estas não podem ser negociadas em bolsas de valores ou mercados de balcão.
+• S/A: O capital é dividido através de ações em que essas e suas transferências são registradas em livro próprio. Existem três tipos de classificação relativas às ações: companhia aberta (quando as ações podem ser comercializadas na bolsa de valores ou no mercado de balcão), companhia fechada (quando as ações devem ser comercializadas apenas entre os próprios acionistas) e debênture (título de crédito representativo de empréstimo). Também podem ser emitidos títulos de crédito, logo, existem mais meios de arrecadar fundos.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+5. Um Profissional de TI, acabou de se formar e pretende Prestar Serviços de Instalação
+de Infraestrutura e Desenvolvimento. Visto que deverá pensar em redução de custos, qual o melhor modelo
+de Empresa, para conseguir seu CNPJ. Justifique sua escolha.
+
+O melhor modelo de empresa seria MEI (LTDA) pois no caso teria uma taxa menor. É a pessoa que trabalha por conta própria e se legaliza como pequeno empresário. Para ser um microempreendedor individual, é necessário faturar no máximo até R$ 60 mil por ano e não ter participação em outra empresa como sócio ou titular
